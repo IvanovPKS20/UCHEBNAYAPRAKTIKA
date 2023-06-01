@@ -1,0 +1,24 @@
+C:\Users\Студент\Desktop\UP3\bin\Debug\up3.exe.config
+C:\Users\Студент\Desktop\UP3\bin\Debug\up3.exe
+C:\Users\Студент\Desktop\UP3\bin\Debug\up3.pdb
+C:\Users\Студент\Desktop\UP3\obj\Debug\up3.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\UP3\obj\Debug\up3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\UP3\obj\Debug\up3.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\UP3\obj\Debug\up3.exe
+C:\Users\Студент\Desktop\UP3\obj\Debug\up3.pdb
+C:\Users\Студент\Desktop\Иванов УП день 3\bin\Debug\up3.exe.config
+C:\Users\Студент\Desktop\Иванов УП день 3\bin\Debug\up3.exe
+C:\Users\Студент\Desktop\Иванов УП день 3\bin\Debug\up3.pdb
+C:\Users\Студент\Desktop\Иванов УП день 3\obj\Debug\up3.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Иванов УП день 3\obj\Debug\up3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\Иванов УП день 3\obj\Debug\up3.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Иванов УП день 3\obj\Debug\up3.exe
+C:\Users\Студент\Desktop\Иванов УП день 3\obj\Debug\up3.pdb
+C:\Users\mice\Desktop\Иванов УП день 3\bin\Debug\up3.exe.config
+C:\Users\mice\Desktop\Иванов УП день 3\bin\Debug\up3.exe
+C:\Users\mice\Desktop\Иванов УП день 3\bin\Debug\up3.pdb
+C:\Users\mice\Desktop\Иванов УП день 3\obj\Debug\up3.csproj.AssemblyReference.cache
+C:\Users\mice\Desktop\Иванов УП день 3\obj\Debug\up3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mice\Desktop\Иванов УП день 3\obj\Debug\up3.csproj.CoreCompileInputs.cache
+C:\Users\mice\Desktop\Иванов УП день 3\obj\Debug\up3.exe
+C:\Users\mice\Desktop\Иванов УП день 3\obj\Debug\up3.pdb
